@@ -1,5 +1,3 @@
-#PROJETO APRENDENDO GIT/GITHUB
+# PROJETO APRENDENDO GIT/GITHUB
 
-##Autor: Kaue Riki
-
-ertyui
+## Autor: Kaue Riki
